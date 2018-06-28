@@ -1,0 +1,12 @@
+---
+papersize: a4
+header-includes: |
+    \usepackage{fancyhdr}
+    \pagestyle{fancy}
+    \fancyhead{}
+    \fancyhead[C]{Modelica Association Bylaws}
+    \fancyfoot[C]{\thepage}
+    \renewcommand{\familydefault}{\sfdefault}
+geometry: margin=20mm
+fontsize: 12pt
+---
