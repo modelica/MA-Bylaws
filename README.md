@@ -1,6 +1,9 @@
 # Modelica Association Bylaws #
 
-Repository for the Bylaws of the Modelica Association
+In this (for now) private repository a dedicated working group will discuss changes of the MA bylaws regarding:
+- general items (like electronic voting at Annual Meetings)
+- membership rules (for example: distinction between contributors (have to sign CCLA) and advisory board) and fees
+- ...
 
 See [`MA-Bylaws.md`](MA-Bylaws.md)
 
