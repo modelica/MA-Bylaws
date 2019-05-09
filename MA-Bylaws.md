@@ -194,7 +194,9 @@ MA's financial year is from January 1 to December 31.
 MA's highest decision-making body is the Assembly which consists of all
 MA members (individual persons and liaison members/representatives of
 member organizations) that are present at an Assembly meeting or take
-place in an electronic vote.
+place in an electronic vote. 
+
+"Present" at an Assembly or other meeting means to be either personally present at the meeting location or participating via teleconferencing mechanisms. Especially, this means that members can also vote if present via teleconferencing.
 
 Between meetings the Board (see § 16 and § 17) is MA's point of contact.
 The Board will follow the applicable regulations and decisions made by
@@ -387,8 +389,8 @@ accepts to be a representative of an organization at a meeting can not
 exercise his/her voting rights as an individual member during that
 meeting.
 
-A member must be present at a meeting to execute his/her voting rights,
-except for electronic voting.
+A member must be present at a meeting to execute his/her voting rights 
+(see §5 for the definition of "present"), except for electronic voting.
 
 The Assembly constitutes a quorum when at least nine members are present
 which have the right to vote, one of whom is the Chairperson or
@@ -421,7 +423,11 @@ can vote. The same voting rules as for an Assembly meeting apply. Every
 member must have the possibility to inspect the submitted votes. A vote
 counter elected at the Assembly meeting summarizes the result and sends
 it to all members of MA. Election of persons is not possible by an
-electronic voting.
+electronic voting. However, elections of persons during a meeting can be 
+performed electronically in order that members present via teleconferencing 
+mechanisms can vote. For secret ballots, an appropriate anonymous service 
+has to be used in this case. The service and method to be used for the 
+anonymous voting must be announced together with the agenda of the meeting.
 
 ## § 15 Accountants ##
 
