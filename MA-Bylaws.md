@@ -368,10 +368,6 @@ An annual Assembly meeting has the following agenda:
 
 ## § 14 Voting ##
 
-A member needs to pay the annual membership fee during the year in order
-to maintain membership. To exercise voting rights, the fee must have
-been paid before voting is performed.
-
 An individual member present at an Assembly meeting, and not being an
 appointed representative for an organizational member (see the next
 paragraph), has the right to vote. Such a person has one vote.
