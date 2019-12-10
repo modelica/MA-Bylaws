@@ -1,104 +1,5 @@
-BYLAWS of the Modelica Assocation
-=================================
-
-Adopted at the statutory annual meeting on February 5, 2000.
-
-The bylaws have been changed and voted at:
-
-  - 25th meeting on Feb. 7, 2001 in Bielefeld
-  - 26th meeting on June 13, 2001 in Linköping
-  - 27th meeting on Sept. 7, 2001 in Hartford
-
-The bylaws have been changed and voted at:
-
-  - 54th meeting on Nov. 13, 2007 in Paris
-  - 55th meeting on Jan. 16, 2008 in Oberpfaffenhofen
-
-The bylaws have been changed and voted at:
-
-  - 70th meeting on March 25, 2011 in Dresden
-  - 71st meeting on May 23, 2011 in Lund
-
-The bylaws have been changed and voted at:
-
-  - 73rd meeting on Dec. 14, 2011 in Oberpfaffenhofen
-  - 74th meeting on Feb. 29, 2012 in Paris
-
-This is a major change of the bylaws to improve the operation of the
-Modelica Association (MA).
-
-Summary of the changes:
-
-  - The purpose of MA has changed (§ 2: The goal is not only to develop
-    the Modelica language and Modelica libraries, but in general
-    coordinated standardization in the fields of cyber physical
-    systems and systems engineering). The granting of MA standard
-    approval is explicitly mentioned.
-
-  - The development work of MA is now organized in MA Projects (MAPs),
-    see the new paragraphs § 21 - § 23. Every MAP can make its own
-    rules (that need to be approved by MA). The leader of a MAP needs
-    to be a MA member. Other project members need not to be MA
-    members. A MAP leader can also become a member of the MA Board;
-    this requires approval by the MA Assembly. Project results must be
-    made available under an open source license. It is recommended to
-    publish them as MA standard. A template for a MA Project
-    application has been added as an appendix.
-
-  - The text of § 9 (Modelica Language) has been moved out of the Bylaws
-    and into the rules of the MAP "Modelica Language".
-
-  - The text of § 10 (Modelica Libraries) has been moved out of the
-    Bylaws and into the rules of the MAP "Modelica Libraries".
-
-  - The definition of MA meetings has been simplified and unified. There
-    is now only one meeting type called "Assembly meeting" (instead of
-    "ordinary/extra/annual meeting"). One of the Assembly meetings is
-    called "Annual Assembly meeting”, where, e.g., elections take
-    place. All rules for an "Assembly meeting" are now collected in
-    § 12. To make this uniform and adapt it to the desired operation,
-    the following changes have been applied:
-
-    - A meeting has to be announced at least 5 weeks before it takes
-      place. The meeting invitation must include date, location and
-      preliminary agenda (previously a meeting had to be announced 3
-      weeks beforehand and an agenda was not mentioned; for an extra
-      annual meeting, previously date and location had to be announced
-      5 weeks beforehand).
-
-    - Proposals for the meeting must be sent to the Chairperson two
-      weeks beforehand (previously: 4 days)
-
-    - The final agenda including the proposals and documents must be
-      sent to the MA members 1 week beforehand (previously: nothing
-      was defined).
-
-  - All paragraphs concerning MA membership have now been moved to § 3
-    "Membership” (previously, it was split in to several paragraphs).
-
-  - In § 14 "Voting", all issues regarding voting are summarized and at
-    other places only a reference to the voting rules are present. The
-    two terms "simple majority" (&gt; 50 %) and "qualified majority"
-    (&gt; 66 %) have been introduced, precisely defined and used
-    throughout the Bylaws. It is also specified that "vote abstention"
-    is not a submitted vote (this was previously undefined), i.e.,
-    there is only the possibility to vote for a proposal or reject it.
-    If a third option ("abstention") would be present, the effect
-    would be exactly as "reject", and this is confusing. Previously,
-    for the dissolution of MA at least 3/4th of the submitted votes
-    have been necessary. In order to not introduce still a third type
-    of "majority", dissolution was changed to "qualified majority",
-    i.e. &gt; 66 %.
-
-  - Role of auditing / accountants is summarized in § 7. Availability of
-    accounts to accountants is now required 5 (formerly 6) weeks
-    before an Annual Assembly meeting (same as invitation to Assembly
-    meeting).
-
-  - The election periods are defined in § 15 and § 16 (previously, it
-    was split in to several paragraphs).
-
--------------------------------------------------------------------------------
+BYLAWS of the Modelica Assocation (Version 2.1)
+===============================================
 
 # General regulations #
 
@@ -504,7 +405,9 @@ Association (see § 2) can be organized in Modelica Association Projects
 (MAP). The organizational structure and the rules of each MAP can be
 determined independently by this project, as long as they are compliant
 with the MA Bylaws, especially with the rules defined in § 22 and § 23.
-A set of MAP rules is recommended in the Appendix.
+A set of MAP rules is recommended in the provided 
+[MA-Project-Template](MA-Project-Template.md) (this template is not
+part of the MA-Bylaws).
 
 After a candidate for a project has been proposed to the MA, the MA
 Assembly decides on the registration of a project as a MAP with a
@@ -549,8 +452,7 @@ MAPs are encouraged to apply for approval of their results by MA as MA
 standard according to § 2.
 
 MAPs must make the results of the project work publicly available on the
-web under an open source license (usually the Modelica License or an
-open source license listed at <http://www.opensource.org/licenses>).
+web under an open source license that is listed at <http://www.opensource.org/licenses>.
 
 MAPs are encouraged to use the MA infrastructure such as MA web, svn,
 trac and newsletter. However, an MA project can also build its own
@@ -582,60 +484,3 @@ qualified majority of a MA Assembly (see § 14) is necessary.
 
 Resignation of a project as a MAP applies immediately after MA received
 the written notice.
-
-# Appendix: Template for a Modelica Association Project application #
-
-## Project name ##
-
-*[Name of the project]*
-
-## Project purpose ##
-
-*[Short description about the purpose of the project and previous work on
-  which the project builds (e.g. previous documents)]*
-
-## License of project results ##
-
-*[Results of the project must be publicly available under Modelica License 2
-  (or a follow-up version of this license) or under an open source license
-  approved by the Open Source Initiative, see <http://www.opensource.org/licenses>.
-  Define the license used in this project here.]*
-
-## Project rules ##
-
-*[Rules under which this project are carried out. Recommendations:*
-
-***Project meetings***
-
-*Project meetings are open to the public.*
-
-***Project members***
-
-  - *Project members are individual persons or organizations according to § 3 of the MA Bylaws.*
-
-  - *Every member has one vote.*
-
-  - *A person applying for project membership must have already actively contributed to this project. This requires usually to have attended at least two project meetings in the last 12 months.*
-
-  - *Membership is approved at a project meeting with a simple majority of the votes submitted (according to § 14 of the MA Bylaws).*
-
-  - *Membership resignation from this project applies immediately after written application to the project leader.*
-
-  - *The project leader is elected for two years. The election is performed with the same rules as for a MA board member. Usually, voting is performed at the MA Assembly Meeting where the MA board is elected.*
-
-***Project results***
-
-*New releases of project results (documents, libraries, code) must be approved by the project members with a qualified majority of the number of votes submitted, according to § 14 of the MA Bylaws. Voting can take place at a project meeting, or it can be performed electronically. Electronic voting is performed according to § 14 of the MA Bylaws where the term "MA members" is replaced by the term "project members" and the regulations regarding "Chairperson" and "Vice-Chairperson" do not apply.*
-
-*New releases are to be sent to MA for approval according to § 2 of MA Bylaws.*
-
-*]*
-
-**Initial project members**
-
-*[A list of the initial project members and their affiliation]*
-
-**Initial project leader**
-
-*[The initial project leader elected by the initial project members,
-and its affiliation]*
