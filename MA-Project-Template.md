@@ -11,8 +11,7 @@
 
 ## License of project results ##
 
-*[Results of the project must be publicly available under Modelica License 2
-  (or a follow-up version of this license) or under an open source license
+*[Results of the project must be publicly available under an open source license
   approved by the Open Source Initiative, see <http://www.opensource.org/licenses>.
   Define the license used in this project here.]*
 
