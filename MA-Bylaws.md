@@ -183,8 +183,7 @@ notice.
 Each member is obliged to pay the corresponding annual fee which is
 determined at the annual Assembly meeting. The MA board can revoke
 membership with qualified majority, if a member did not pay the annual
-membership fee during the year although the MA has sent
-an invoice and at least one reminder. The annual fee for
+membership fee during the year. The annual fee for
 individuals should not be so high that it impedes the membership of
 individuals.
 
