@@ -452,7 +452,9 @@ MAPs are encouraged to apply for approval of their results by MA as MA
 standard according to § 2.
 
 MAPs must make the results of the project work publicly available on the
-web under an open source license that is listed at <http://www.opensource.org/licenses>.
+web under an open source license (usually an open source license approved
+by the Open Source Initiative, see http://www.opensource.org/licenses).
+
 
 MAPs are encouraged to use the MA infrastructure such as MA web, svn,
 trac and newsletter. However, an MA project can also build its own
