@@ -29,6 +29,8 @@
 
   - *Every member has one vote.*
 
+  - *Every member needs to sign the MA CLA or a project CLA.*
+
   - *A person applying for project membership must have already actively contributed to this project. This requires usually to have attended at least two project meetings in the last 12 months.*
 
   - *Membership is approved at a project meeting with a simple majority of the votes submitted (according to § 14 of the MA Bylaws).*
