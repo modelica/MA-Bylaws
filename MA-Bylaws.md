@@ -407,7 +407,7 @@ determined independently by this project, as long as they are compliant
 with the MA Bylaws, especially with the rules defined in § 22 and § 23.
 A set of MAP rules is recommended in the provided 
 [MA-Project-Template](MA-Project-Template.md) (this template is not
-part of the MA-Bylaws).
+part of the MA Bylaws).
 
 After a candidate for a project has been proposed to the MA, the MA
 Assembly decides on the registration of a project as a MAP with a
