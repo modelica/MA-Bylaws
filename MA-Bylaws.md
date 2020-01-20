@@ -196,7 +196,11 @@ MA members (individual persons and liaison members/representatives of
 member organizations) that are present at an Assembly meeting or take
 place in an electronic vote. 
 
-"Present" at an Assembly or other meeting means to be either personally present at the meeting location or participating via teleconferencing mechanisms. Especially, this means that members can also vote if present via teleconferencing.
+"Present" at an Assembly or other meeting means to be either personally
+present at the meeting location or participating via teleconferencing
+mechanisms.
+Especially, this means that members can also vote if present via
+teleconferencing.
 
 Between meetings the Board (see § 16 and § 17) is MA's point of contact.
 The Board will follow the applicable regulations and decisions made by
@@ -391,6 +395,7 @@ meeting.
 
 A member must be present at a meeting to execute his/her voting rights 
 (see §5 for the definition of "present"), except for electronic voting.
+(see the definition of *electronic voting* at the end of this paragraph).
 
 The Assembly constitutes a quorum when at least nine members are present
 which have the right to vote, one of whom is the Chairperson or
