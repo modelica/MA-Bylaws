@@ -82,7 +82,9 @@ Resignation from MA applies immediately after MA received the written
 notice.
 
 Each member is obliged to pay the corresponding annual fee which is
-determined at the annual Assembly meeting. The annual fee for
+determined at the annual Assembly meeting. The MA board can revoke
+membership with qualified majority, if a member did not pay the annual
+membership fee during the year. The annual fee for
 individuals should not be so high that it impedes the membership of
 individuals.
 
@@ -268,10 +270,6 @@ An annual Assembly meeting has the following agenda:
   17. End of meeting
 
 ## § 14 Voting ##
-
-A member needs to pay the annual membership fee during the year in order
-to maintain membership. To exercise voting rights, the fee must have
-been paid before voting is performed.
 
 An individual member present at an Assembly meeting, and not being an
 appointed representative for an organizational member (see the next
