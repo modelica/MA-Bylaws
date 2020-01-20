@@ -194,7 +194,7 @@ MA's financial year is from January 1 to December 31.
 MA's highest decision-making body is the Assembly which consists of all
 MA members (individual persons and liaison members/representatives of
 member organizations) that are present at an Assembly meeting or take
-place in an electronic vote. 
+place in an *electronic vote*.
 
 "Present" at an Assembly or other meeting means to be either personally
 present at the meeting location or participating via teleconferencing
@@ -386,20 +386,20 @@ An organizational member may exercise voting rights through one
 appointed representative present at an Assembly meeting. This is either
 (a) the liaison member of the organizational member or (b) a person
 acting for the organization that has been given mandate for an Assembly
-meeting or an electronic voting, by informing the MA Board in writing at
-least one week prior to the start of the meeting or the electronic
-voting. Each such representative has one vote. An individual member who
+meeting or an *electronic voting*, by informing the MA Board in writing at
+least one week prior to the start of the meeting or the *electronic
+voting*. Each such representative has one vote. An individual member who
 accepts to be a representative of an organization at a meeting can not
 exercise his/her voting rights as an individual member during that
 meeting.
 
-A member must be present at a meeting to execute his/her voting rights 
-(see §5 for the definition of "present"), except for electronic voting.
+A member must be present at a meeting to execute his/her voting rights
+(see §5 for the definition of "present"), except for *electronic voting*
 (see the definition of *electronic voting* at the end of this paragraph).
 
 The Assembly constitutes a quorum when at least nine members are present
 which have the right to vote, one of whom is the Chairperson or
-Vice-Chairperson. For an electronic voting, at least nine valid votes
+Vice-Chairperson. For an *electronic voting*, at least nine valid votes
 have to be submitted, one of these votes must be from the Chairperson or
 Vice-Chairperson.
 
@@ -420,7 +420,7 @@ contested in a final vote.
 If a member so desires, election of persons will take place by secret
 ballot.
 
-An electronic voting has to be announced at least 2 weeks before the
+An *electronic voting* has to be announced at least 2 weeks before the
 voting takes place, and the final proposal (e.g. consisting of a
 specification, or a library) must be generally available at least 1 week
 before the vote. The voting period is 6 working days. Every member of MA
@@ -428,10 +428,10 @@ can vote. The same voting rules as for an Assembly meeting apply. Every
 member must have the possibility to inspect the submitted votes. A vote
 counter elected at the Assembly meeting summarizes the result and sends
 it to all members of MA. Election of persons is not possible by an
-electronic voting. However, elections of persons during a meeting can be 
-performed electronically in order that members present via teleconferencing 
-mechanisms can vote. For secret ballots, an appropriate anonymous service 
-has to be used in this case. The service and method to be used for the 
+*electronic voting*. However, elections of persons during a meeting can be
+performed electronically in order that members present via teleconferencing
+mechanisms can vote. For secret ballots, an appropriate anonymous service
+has to be used in this case. The service and method to be used for the
 anonymous voting must be announced together with the agenda of the meeting.
 
 ## § 15 Accountants ##
