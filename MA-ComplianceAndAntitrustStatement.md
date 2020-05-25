@@ -19,11 +19,11 @@ Non-compliance can have severe consequences not only for you as a participant bu
 - **Do** remember that one of the purposes of international standardization is to support competition worldwide for the benefit of industry, consumers and society in general.
 - **Do** ensure that you and other participants that attend meetings have the necessary technical expertise.
 - **Do** follow MA Bylaws, MA Project Bylaws and other MA Project regulations.
-- **Do** review and clear agendas of meetings in advance, to ensure that the subjects to be discussed are consistent with competition law, and strictly adhere to the agenda during the meetings.
+- **Do** review and clear agendas of meetings in advance, to ensure that the subjects to be discussed are consistent with competition law.
 - **Do** ensure a transparent and open standards setting process, including participation and the exchange of information 
 - **Do** limit the discussions, or exchange of information, during the MA standaards development process solely to technical standardization issues and only share information that is necessary to meet the objectives of standardization.
 - **Do** consider carefully if a potential (or actual) exchange of information has any value in predicting the future commercial behavior of a participating competitor, and refrain from sharing any information that might have this effect.
-- **Do**o feel free to use and share information from the public domain, including historical and aggregated industry information (which doesn’t allow an individual business’s pricing or commercial strategy to be identified), but do be careful that it doesn’t lead to discussions on future strategy.
+- **Do** feel free to use and share information from the public domain, including historical and aggregated industry information (which doesn’t allow an individual business’s pricing or commercial strategy to be identified), but do be careful that it doesn’t lead to discussions on future strategy.
 - **Do** always state that you cannot discuss any matters that might arise which you think could contravene competition law; do immediately terminate such conversations; do keep a record of such conversation; and do report this to your company or organization and to the MA board as soon as possible afterwards.
 - **Do** take immediate action if the anti-competitive behavior continues, including suspending the meeting to remove the misbehaving participant(s) and cautioning remaining participants that such behavior cannot be permitted and, if necessary adjourning the meeting. 
 - **Do** ensure that any notes of meetings accurately reflect the discussion.
@@ -40,6 +40,6 @@ Non-compliance can have severe consequences not only for you as a participant bu
 
 
 References: 
-This text cites and re-uses parts of the Competition Law Guidelines of the the International Organization for Standardization (ISO)
+This text cites and re-uses parts of the Competition Law Guidelines of the International Organization for Standardization (ISO)
 https://www.iso.org/files/live/sites/isoorg/files/developing_standards/docs/en/competition_law_guidelines.pdf
 
