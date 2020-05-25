@@ -1,3 +1,5 @@
+# Compliance and Antitrust Guidelines of the Modelica Assocation (Version 1.0 - draft)
+
 The purpose of these Compliance and Antitrust Guidelines (“Guidelines”)  is  to raise awareness of, and provide broad guidance on, competition law issues to you as a participant in the Modelica Association (“MA”) standards development process.
 The Guidelines address all meetings and exchange of information within the MA standards development process and are in particular addressed to all participants and visitors of MA meetings.
 These Guidelines are in addition to any competition law guidelines and policies of your company or organization.
