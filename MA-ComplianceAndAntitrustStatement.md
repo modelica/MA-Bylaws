@@ -21,7 +21,7 @@ Non-compliance can have severe consequences not only for you as a participant bu
 - **Do** follow MA Bylaws, MA Project Bylaws and other MA Project regulations.
 - **Do** review and clear agendas of meetings in advance, to ensure that the subjects to be discussed are consistent with competition law.
 - **Do** ensure a transparent and open standards setting process, including participation and the exchange of information 
-- **Do** limit the discussions, or exchange of information, during the MA standaards development process solely to technical standardization issues and only share information that is necessary to meet the objectives of standardization.
+- **Do** limit the discussions, or exchange of information, during the MA standards development process solely to technical standardization issues and only share information that is necessary to meet the objectives of standardization.
 - **Do** consider carefully if a potential (or actual) exchange of information has any value in predicting the future commercial behavior of a participating competitor, and refrain from sharing any information that might have this effect.
 - **Do** feel free to use and share information from the public domain, including historical and aggregated industry information (which doesn’t allow an individual business’s pricing or commercial strategy to be identified), but do be careful that it doesn’t lead to discussions on future strategy.
 - **Do** always state that you cannot discuss any matters that might arise which you think could contravene competition law; do immediately terminate such conversations; do keep a record of such conversation; and do report this to your company or organization and to the MA board as soon as possible afterwards.
