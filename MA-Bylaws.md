@@ -469,7 +469,7 @@ The MA can conditionally accept a MAP with *probationary status* to allow the
 project to mature technically and organizationally and align with existing
 MA standards. After no more than 3 years, the MA Assembly shall vote again
 to accept the MAP unconditionally, extend the probationary status or to
-start deregistration proceedings.
+start de-registration proceedings.
 
 ## § 23 Terms and conditions for Modelica Association Projects ##
 
