@@ -448,6 +448,29 @@ member by the MA.
 
 For clarification: other projects members need not be MA members.
 
+A MAP member can become an MA member according to § 3.
+
+MA has the right to revoke the registration of a MAP if (a) MA bylaws
+are violated, (b) laws or regulations that MA has to follow are
+violated, or (c) the MAP is changed so that it is no longer compliant
+with MA.
+
+If the MA Board suspects that one of the situations from the previous
+paragraph occurred it can within 2 months request the MA Project in
+writing (including email) to remedy the situation. If the project does
+not remove the cause within 2 months after the request of the MA Board,
+then the project can be revoked from the MA. For this exclusion a
+qualified majority of an MA Assembly (see § 14) is necessary.
+
+Resignation of a project as a MAP applies immediately after MA received
+the written notice.
+
+The MA can conditionally accept a MAP with *probationary status* to allow the
+project to mature technically and organizationally and align with existing
+MA standards. After no more than 3 years, the MA Assembly shall vote again
+to accept the MAP unconditionally, extend the probationary status or to
+start de-registration proceedings.
+
 ## § 23 Terms and conditions for Modelica Association Projects ##
 
 The MAP leader has to prepare a report about the project operation of
@@ -478,20 +501,3 @@ holder is the Modelica Association and the MAP members reimburse the
 trademark costs to the MA. If the MAP decides to leave the Modelica
 Association, MA agrees to carry the trademark to the new organization of
 the MAP, provided the MAP members carry the cost of this transaction.
-
-A MAP member can become a MA member according to § 3.
-
-MA has the right to revoke the registration of a MAP if (a) MA bylaws
-are violated, (b) laws or regulations that MA has to follow are
-violated, or (c) the MAP is changed so that it is no longer compliant
-with MA.
-
-If the MA Board suspects that one of the situations from the previous
-paragraph occured it can within 2 months request the MA Project in
-writing (including email) to remedy the situation. If the project does
-not remove the cause within 2 months after the request of the MA Board,
-then the project can be revoked from the MA. For this exclusion a
-qualified majority of a MA Assembly (see § 14) is necessary.
-
-Resignation of a project as a MAP applies immediately after MA received
-the written notice.
