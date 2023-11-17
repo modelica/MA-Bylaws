@@ -1,5 +1,5 @@
 BYLAWS of the Modelica Association (Version 2.1)
-===============================================
+================================================
 
 # General regulations #
 
