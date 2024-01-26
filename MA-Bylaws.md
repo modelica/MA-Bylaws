@@ -189,10 +189,9 @@ approved by The Board.
 
 The Assembly determines dates for Assembly meetings during the year.
 When necessary, the Board can schedule additional Assembly meetings. At
-least two Assembly meetings per year have to take place, one of them is
-the Annual Assembly meeting. On written request by a member of the
-Board, or accountant or members representing at least four votes, the
-Board must call an additional Assembly meeting.
+least one Assembly meeting per year has to take place (the Annual Assembly meeting). 
+On written request by a member of the Board, or accountant or members representing 
+at least four votes, the Board must call an additional Assembly meeting.
 
 For Assembly meetings, the Chairperson must send notice of the meeting
 including date, location and preliminary agenda to MA members in writing
