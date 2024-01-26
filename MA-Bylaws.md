@@ -473,12 +473,6 @@ Beyond that, MAPs are responsible for their financial and human
 resources. MA has the right to support certain works of a MAP with MA
 funding with a qualified majority of the Assembly (see § 14).
 
-If a MAP files a trademark, the usual procedure is that the trademark
-holder is the Modelica Association and the MAP members reimburse the
-trademark costs to the MA. If the MAP decides to leave the Modelica
-Association, MA agrees to carry the trademark to the new organization of
-the MAP, provided the MAP members carry the cost of this transaction.
-
 A MAP member can become a MA member according to § 3.
 
 MA has the right to revoke the registration of a MAP if (a) MA bylaws
