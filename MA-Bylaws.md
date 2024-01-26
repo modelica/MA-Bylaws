@@ -162,10 +162,9 @@ at least three weeks before the annual Assembly meeting.
 
 ## § 8 Changes to bylaws ##
 
-Any changes to these Bylaws must be approved by the Board and require
-identical decisions made by a qualified majority (see § 14) of the
-Assembly at two consecutive Assembly meetings, held with at least two
-months in between.
+Any changes to these Bylaws must be approved by the Board, and require 
+an approval with qualified majority (see § 14) of the Assembly.
+The final proposal must be available at least two months before the vote.
 
 ## § 9 Modelica Language ##
 
