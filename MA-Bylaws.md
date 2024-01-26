@@ -277,9 +277,7 @@ An annual Assembly meeting has the following agenda:
 
 ## § 14 Voting ##
 
-An individual member present at an Assembly meeting, and not being an
-appointed representative for an organizational member (see the next
-paragraph), has the right to vote. Such a person has one vote.
+An individual member present at an Assembly meeting, has the right to vote. 
 
 An organizational member may exercise voting rights through one
 appointed representative present at an Assembly meeting. This is either
@@ -288,9 +286,9 @@ acting for the organization that has been given mandate for an Assembly
 meeting or an *electronic voting*, by informing the MA Board in writing at
 least one week prior to the start of the meeting or the *electronic
 voting*. Each such representative has one vote. An individual member who
-accepts to be a representative of an organization at a meeting can not
-exercise his/her voting rights as an individual member during that
-meeting.
+accepts to be a representative of an organization at a meeting can 
+exercise both his/her voting rights as an individual member and the voting right 
+for the organization he/she represents during that meeting.
 
 A member must be present at a meeting to execute his/her voting rights
 (see §5 for the definition of "present"), except for *electronic voting*
