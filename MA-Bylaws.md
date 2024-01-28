@@ -117,12 +117,16 @@ MA's Board consists of:
   - a Treasurer,
   - a maximum of five additional Board members who are responsible for
     specific duties and
-  - those leaders of registered Modelica Association Projects (see §
-    21 - § 23) that are approved by the MA assembly.
+  - those leaders (and their deputies as alternate board members) of registered 
+    Modelica Association Projects (see § 21 - § 23) that are approved by the MA 
+    assembly as board members.   
 
 The number of additional Board members and their duties for the upcoming
 election period are defined at the latest in the Assembly meeting before
 the Assembly meeting where the election takes place.
+
+Alternate Board members can be present at every Board meeting, and perform voting 
+rights in case the non-alternate board member they represent is absent.
 
 The Chairperson will lead MA's negotiations and work at the Assembly. In
 the absence of the Chairperson the Vice-Chairperson will take over. The
