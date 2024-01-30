@@ -81,7 +81,7 @@ Assembly.
 Resignation from MA applies immediately after MA received the written
 notice.
 
-Each member is obliged to pay the corresponding  fee which is
+Each member is obliged to pay the corresponding annual fee which is
 determined at the annual Assembly meeting. The MA board can revoke
 membership with qualified majority, if a member did not pay the annual
 membership fee during the year. The annual fee for
