@@ -81,7 +81,7 @@ Assembly.
 Resignation from MA applies immediately after MA received the written
 notice.
 
-Each member is obliged to pay the corresponding annual fee which is
+Each member is obliged to pay the corresponding  fee which is
 determined at the annual Assembly meeting. The MA board can revoke
 membership with qualified majority, if a member did not pay the annual
 membership fee during the year. The annual fee for
@@ -191,6 +191,7 @@ approved by The Board.
 ## § 12 Assembly meetings of the Modelica Association ##
 
 The Assembly determines dates for Assembly meetings during the year.
+The Assembly meetings are to be held digitally.
 When necessary, the Board can schedule additional Assembly meetings. At
 least one Assembly meeting per year has to take place (the Annual Assembly meeting). 
 On written request by a member of the Board, or accountant or members representing 
