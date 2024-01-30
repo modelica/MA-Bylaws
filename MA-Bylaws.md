@@ -207,10 +207,10 @@ that are only related to annual matters will not be included.
 
 Proposals and statements to be presented at an Assembly meeting must be
 sent in writing (via post, fax or email) to the Chairperson of the
-meeting at the latest two weeks before the meeting.
+meeting at the latest three weeks before the meeting.
 
 The final agenda, proposals and documents must be available to the
-members at latest one week before the meeting.
+members at latest two weeks before the meeting.
 
 Proposals for a change in the Bylaws, conducting or cancelling elections
 may not be treated as "other business".
