@@ -109,7 +109,7 @@ Between meetings the Board (see § 16 and § 17) is MA's point of contact.
 The Board will follow the applicable regulations and decisions made by
 the Assembly.
 
-MA's Board consists of:
+MA's Board consists of a minimum of four and maximum of nineteen members (and ten alternate members):
 
   - a Chairperson,
   - a Vice-Chairperson,
