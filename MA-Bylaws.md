@@ -348,7 +348,7 @@ duration until the next scheduled MA accountant appointment.
 A Board member must be a member of MA.
 
 The election of the MA Board takes place at every second annual Assembly
-meeting. If a position of the Board becomes vacant or one more Board
+meeting, for a duration of two years. If a position of the Board becomes vacant or one more Board
 member shall be introduced, this Board member can be elected at the next
 Assembly meeting for the duration until the next scheduled MA Board
 election.
