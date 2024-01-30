@@ -306,7 +306,7 @@ A *normal decision* is made by *simple majority*. Here a proposal must
 receive more than 50 per cent of the valid votes submitted.
 
 A *qualified decision* is made by a *qualified majority.* Here a
-proposal must receive more than 66 percent of the valid votes submitted.
+proposal must receive at least two thirds of the valid votes submitted.
 
 A vote abstention is not a submitted vote.
 
