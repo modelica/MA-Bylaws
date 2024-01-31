@@ -221,7 +221,7 @@ to speak.
 ## § 13 The Annual Assembly meeting ##
 
 Every year the Board must call one annual Assembly meeting before end of
-May. This meeting is one of the meetings defined in § 12.
+June. This meeting is one of the meetings defined in § 12.
 
 The Board must make MA's annual report, the annual reports of the MA
 projects, and the auditors' report available to members at least one
