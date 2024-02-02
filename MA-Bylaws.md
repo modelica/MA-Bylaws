@@ -192,6 +192,8 @@ the Assembly are required at two consecutive Assembly meetings each.
 A decision on dissolution may only be made after the matter has been
 approved by The Board.
 
+The remaining funds will be donated to other non-profit organizations with similar goals as MA.
+
 ## § 12 Assembly meetings of the Modelica Association ##
 
 The Assembly determines dates for Assembly meetings during the year.
