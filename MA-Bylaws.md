@@ -28,6 +28,8 @@ academic development and research.
 MA can approve documents from inside and outside the MA as Modelica
 Association standard.
 
+Any profit or loss during a year will be carried forward to the next year's budget.
+
 ## § 3 Membership and annual fee ##
 
 There are two types of members: individual members and organizational
