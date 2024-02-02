@@ -88,6 +88,8 @@ membership fee during the year. The annual fee for
 individuals should not be so high that it impedes the membership of
 individuals.
 
+The annual fee will be decided by the assembly, and depending on company size, up to a maximum annual fee of 20 000 Euro.
+
 ## § 4 Financial year ##
 
 MA's financial year is from January 1 to December 31.
