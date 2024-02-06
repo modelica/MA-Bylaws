@@ -461,8 +461,7 @@ The MAP leader has to prepare a report about the project operation of
 the previous year for the MA Annual Assembly meeting.
 
 MA projects can change their rules (which have been previously accepted
-by MA) only, if accepted by an MA Assembly meeting with a qualified
-majority (see § 14).
+by MA) only, if accepted by the MA Board.
 
 MAPs are encouraged to apply for approval of their results by MA as MA
 standard according to § 2.
