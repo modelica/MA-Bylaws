@@ -470,11 +470,6 @@ MAPs must make the results of the project work publicly available on the
 web under an open source license (usually an open source license approved
 by the Open Source Initiative, see http://www.opensource.org/licenses).
 
-
-MAPs are encouraged to use the MA infrastructure such as MA web, svn,
-trac and newsletter. However, an MA project can also build its own
-infrastructure, especially an own web page.
-
 Beyond that, MAPs are responsible for their financial and human
 resources. MA has the right to support certain works of a MAP with MA
 funding with a qualified majority of the Assembly (see § 14).
