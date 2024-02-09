@@ -196,7 +196,7 @@ The remaining funds will be donated to other non-profit organizations with simil
 
 ## § 12 Assembly meetings of the Modelica Association ##
 
-The Assembly determines dates for Assembly meetings during the year.
+The MA Board determines dates for Assembly meetings during the year.
 The Assembly meetings are to be held digitally.
 When necessary, the Board can schedule additional Assembly meetings. At
 least one Assembly meeting per year has to take place (the Annual Assembly meeting). 
