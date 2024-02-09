@@ -409,8 +409,7 @@ conflict.
 
 ## § 20 Register of members ##
 
-Members are specified on MA's homepage (currently
-http://www.modelica.org).
+The MA maintains a member list. All organizational members are published on the MA website, individual members optionally.
 
 # Modelica Association Projects #
 
