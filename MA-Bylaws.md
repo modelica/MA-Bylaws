@@ -333,10 +333,7 @@ before the vote. The voting period is 6 working days. Every member of MA
 can vote. The same voting rules as for an Assembly meeting apply. Every
 member must have the possibility to inspect the submitted votes. A vote
 counter elected at the Assembly meeting summarizes the result and sends
-it to all members of MA. Election of persons is not possible by an
-*electronic voting*. However, elections of persons during a meeting can be
-performed electronically in order that members present via teleconferencing
-mechanisms can vote. For secret ballots, an appropriate anonymous service
+it to all members of MA. For secret ballots, an appropriate anonymous service
 has to be used in this case. The service and method to be used for the
 anonymous voting must be announced together with the agenda of the meeting.
 
