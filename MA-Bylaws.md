@@ -51,31 +51,14 @@ the Assembly. The voting rules are further specified in these Bylaws.
 
 For an individual person to become a member of the Modelica Association,
 the person must have contributed to an MA Project (see § 21 - § 23) or
-to other parts of the Modelica Association. A contribution is typically
-demonstrated by
-
-(a) participating in two previous project meetings of registered MA
-      Projects during the previous twelve-month period, or
-
-(b) participating in two previous Assembly meetings (see § 12) during
-      the previous twelve-month period.
-
-The Assembly also has the right to admit a person as a member during the
-second Assembly meeting during the twelve-month period that the person
-is present at.
+to other parts of the Modelica Association. 
 
 A person applying for membership must reveal his/her major affiliations
 with relevance to MA interests and keep the Assembly informed of
 important changes in affiliations.
 
-Membership is approved by the Assembly with simple majority (see § 14),
-after written application which must be submitted to MA at the latest
-two weeks before the respective Assembly meeting takes place.
-
-A leader of a proposed MA Project can be accepted as MA member without
-the need to have participated in two previous meetings if he/she has
-strong technical and leadership credentials and he/she is accepted as
-new member by the Assembly with simple majority (see § 14).
+Membership is approved by the the MA Board,
+after written application which must be submitted to MA.
 
 Further directives on the application procedure will be decided by the
 Assembly.
