@@ -351,7 +351,7 @@ duration until the next scheduled MA accountant appointment.
 
 ## § 16 Constitution of the Board ##
 
-A Board member must be a member of MA.
+A Board member must be a member of MA (personal or part of an organizational member).
 
 The election of the MA Board takes place at every second annual Assembly
 meeting, for a duration of two years. If a position of the Board becomes vacant or one more Board
@@ -442,20 +442,13 @@ The proposal of a project for registration as MAP must contain
   - Initial members of the project (individual and organizational). A
     MAP must have a reasonable number of members.
 
-  - Name, organization and position of the project leader.
-
-The project leader must be a member of the MA before the voting about
-the project's registration. If this is not already the case, the
-procedure of § 3 can be applied. If the project leader is no longer a
-member of MA, another MA member has to be elected as project leader
-according to the project rules. Until a new project leader has been
-elected, the MA Chairperson is the leader of such a project. After the
-MAP registration, the project leader can apply for approval as MA Board
-member by the MA.
-
-For clarification: other projects members need not be MA members.
+  - Name, organization and position of the project leader (and deputy) fulfilling 
+the requirements of §23.
 
 ## § 23 Terms and conditions for Modelica Association Projects ##
+
+An MA project leader and the deputy needs to fulfil the requirements for 
+an MA board member.
 
 The MAP leader has to prepare a report about the project operation of
 the previous year for the MA Annual Assembly meeting.
@@ -474,7 +467,7 @@ Beyond that, MAPs are responsible for their financial and human
 resources. MA has the right to support certain works of a MAP with MA
 funding with a qualified majority of the Assembly (see § 14).
 
-A MAP member can become a MA member according to § 3.
+A MAP member can become a MA member according to § 3, but does not have to.
 
 MA has the right to revoke the registration of a MAP if (a) MA bylaws
 are violated, (b) laws or regulations that MA has to follow are
