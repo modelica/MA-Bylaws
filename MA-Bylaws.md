@@ -57,7 +57,7 @@ A person applying for membership must reveal his/her major affiliations
 with relevance to MA interests and keep the Assembly informed of
 important changes in affiliations.
 
-Membership is approved by the the MA Board,
+Membership has to be approved by the the MA Board,
 after written application which must be submitted to MA.
 
 Further directives on the application procedure will be decided by the
