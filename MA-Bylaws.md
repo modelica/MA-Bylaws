@@ -426,7 +426,7 @@ the requirements of §23.
 
 ## § 23 Terms and conditions for Modelica Association Projects ##
 
-An MA project leader and the deputy needs to fulfil the requirements for 
+Every MA Project Leader and Deputy Project Leader needs to fulfil the requirements for 
 an MA board member.
 
 The MAP leader has to prepare a report about the project operation of
