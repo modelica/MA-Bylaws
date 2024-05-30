@@ -1,4 +1,4 @@
-BYLAWS of the Modelica Association (Version 2.1)
+BYLAWS of the Modelica Association (Version 2.2)
 ================================================
 
 # General regulations #
@@ -28,6 +28,8 @@ academic development and research.
 MA can approve documents from inside and outside the MA as Modelica
 Association standard.
 
+Any profit or loss during a year will be carried forward to the next year's budget.
+
 ## § 3 Membership and annual fee ##
 
 There are two types of members: individual members and organizational
@@ -49,31 +51,14 @@ the Assembly. The voting rules are further specified in these Bylaws.
 
 For an individual person to become a member of the Modelica Association,
 the person must have contributed to an MA Project (see § 21 - § 23) or
-to other parts of the Modelica Association. A contribution is typically
-demonstrated by
-
-(a) participating in two previous project meetings of registered MA
-      Projects during the previous twelve-month period, or
-
-(b) participating in two previous Assembly meetings (see § 12) during
-      the previous twelve-month period.
-
-The Assembly also has the right to admit a person as a member during the
-second Assembly meeting during the twelve-month period that the person
-is present at.
+to other parts of the Modelica Association. 
 
 A person applying for membership must reveal his/her major affiliations
 with relevance to MA interests and keep the Assembly informed of
 important changes in affiliations.
 
-Membership is approved by the Assembly with simple majority (see § 14),
-after written application which must be submitted to MA at the latest
-two weeks before the respective Assembly meeting takes place.
-
-A leader of a proposed MA Project can be accepted as MA member without
-the need to have participated in two previous meetings if he/she has
-strong technical and leadership credentials and he/she is accepted as
-new member by the Assembly with simple majority (see § 14).
+Membership has to be approved by the MA Board,
+after written application which must be submitted to MA.
 
 Further directives on the application procedure will be decided by the
 Assembly.
@@ -87,6 +72,8 @@ membership with qualified majority, if a member did not pay the annual
 membership fee during the year. The annual fee for
 individuals should not be so high that it impedes the membership of
 individuals.
+
+The annual fee will be decided by the assembly, and depending on company size, up to a maximum annual fee of 20 000 Euro.
 
 ## § 4 Financial year ##
 
@@ -109,7 +96,7 @@ Between meetings the Board (see § 16 and § 17) is MA's point of contact.
 The Board will follow the applicable regulations and decisions made by
 the Assembly.
 
-MA's Board consists of:
+MA's Board consists of a minimum of four and maximum of nineteen members (and ten alternate members):
 
   - a Chairperson,
   - a Vice-Chairperson,
@@ -117,12 +104,16 @@ MA's Board consists of:
   - a Treasurer,
   - a maximum of five additional Board members who are responsible for
     specific duties and
-  - those leaders of registered Modelica Association Projects (see §
-    21 - § 23) that are approved by the MA assembly.
+  - those leaders (and their deputies as alternate board members) of registered 
+    Modelica Association Projects (see § 21 - § 23) that are approved by the MA 
+    assembly as board members.   
 
 The number of additional Board members and their duties for the upcoming
 election period are defined at the latest in the Assembly meeting before
 the Assembly meeting where the election takes place.
+
+Alternate Board members can be present at every Board meeting, and perform voting 
+rights in case the non-alternate board member they represent is absent.
 
 The Chairperson will lead MA's negotiations and work at the Assembly. In
 the absence of the Chairperson the Vice-Chairperson will take over. The
@@ -162,10 +153,9 @@ at least three weeks before the annual Assembly meeting.
 
 ## § 8 Changes to bylaws ##
 
-Any changes to these Bylaws must be approved by the Board and require
-identical decisions made by a qualified majority (see § 14) of the
-Assembly at two consecutive Assembly meetings, held with at least two
-months in between.
+Any changes to these Bylaws must be approved by the Board, and require 
+an approval with qualified majority (see § 14) of the Assembly.
+The final proposal must be available at least two months before the vote.
 
 ## § 9 Modelica Language ##
 
@@ -185,14 +175,16 @@ the Assembly are required at two consecutive Assembly meetings each.
 A decision on dissolution may only be made after the matter has been
 approved by The Board.
 
+The remaining funds will be donated to other non-profit organizations with similar goals as MA.
+
 ## § 12 Assembly meetings of the Modelica Association ##
 
-The Assembly determines dates for Assembly meetings during the year.
+The MA Board determines dates for Assembly meetings during the year.
+The Assembly meetings are to be held digitally.
 When necessary, the Board can schedule additional Assembly meetings. At
-least two Assembly meetings per year have to take place, one of them is
-the Annual Assembly meeting. On written request by a member of the
-Board, or accountant or members representing at least four votes, the
-Board must call an additional Assembly meeting.
+least one Assembly meeting per year has to take place (the Annual Assembly meeting). 
+On written request by a member of the Board, or accountant or members representing 
+at least four votes, the Board must call an additional Assembly meeting.
 
 For Assembly meetings, the Chairperson must send notice of the meeting
 including date, location and preliminary agenda to MA members in writing
@@ -204,10 +196,10 @@ that are only related to annual matters will not be included.
 
 Proposals and statements to be presented at an Assembly meeting must be
 sent in writing (via post, fax or email) to the Chairperson of the
-meeting at the latest two weeks before the meeting.
+meeting at the latest three weeks before the meeting.
 
-The final agenda, proposals and documents must be available to the
-members at latest one week before the meeting.
+The agenda, proposals and documents must be available to the
+members at latest two weeks before the meeting.
 
 Proposals for a change in the Bylaws, conducting or cancelling elections
 may not be treated as "other business".
@@ -218,7 +210,7 @@ to speak.
 ## § 13 The Annual Assembly meeting ##
 
 Every year the Board must call one annual Assembly meeting before end of
-May. This meeting is one of the meetings defined in § 12.
+June. This meeting is one of the meetings defined in § 12.
 
 The Board must make MA's annual report, the annual reports of the MA
 projects, and the auditors' report available to members at least one
@@ -277,9 +269,7 @@ An annual Assembly meeting has the following agenda:
 
 ## § 14 Voting ##
 
-An individual member present at an Assembly meeting, and not being an
-appointed representative for an organizational member (see the next
-paragraph), has the right to vote. Such a person has one vote.
+An individual member present at an Assembly meeting, has the right to vote. 
 
 An organizational member may exercise voting rights through one
 appointed representative present at an Assembly meeting. This is either
@@ -288,9 +278,9 @@ acting for the organization that has been given mandate for an Assembly
 meeting or an *electronic voting*, by informing the MA Board in writing at
 least one week prior to the start of the meeting or the *electronic
 voting*. Each such representative has one vote. An individual member who
-accepts to be a representative of an organization at a meeting can not
-exercise his/her voting rights as an individual member during that
-meeting.
+accepts to be a representative of an organization at a meeting can 
+exercise both his/her voting rights as an individual member and the voting right 
+for the organization he/she represents during that meeting.
 
 A member must be present at a meeting to execute his/her voting rights
 (see §5 for the definition of "present"), except for *electronic voting*
@@ -306,7 +296,7 @@ A *normal decision* is made by *simple majority*. Here a proposal must
 receive more than 50 per cent of the valid votes submitted.
 
 A *qualified decision* is made by a *qualified majority.* Here a
-proposal must receive more than 66 percent of the valid votes submitted.
+proposal must receive at least two thirds of the valid votes submitted.
 
 A vote abstention is not a submitted vote.
 
@@ -326,10 +316,7 @@ before the vote. The voting period is 6 working days. Every member of MA
 can vote. The same voting rules as for an Assembly meeting apply. Every
 member must have the possibility to inspect the submitted votes. A vote
 counter elected at the Assembly meeting summarizes the result and sends
-it to all members of MA. Election of persons is not possible by an
-*electronic voting*. However, elections of persons during a meeting can be
-performed electronically in order that members present via teleconferencing
-mechanisms can vote. For secret ballots, an appropriate anonymous service
+it to all members of MA. For secret ballots, an appropriate anonymous service
 has to be used in this case. The service and method to be used for the
 anonymous voting must be announced together with the agenda of the meeting.
 
@@ -344,10 +331,10 @@ duration until the next scheduled MA accountant appointment.
 
 ## § 16 Constitution of the Board ##
 
-A Board member must be a member of MA.
+A Board member must be a member of MA (personal or part of an organizational member).
 
 The election of the MA Board takes place at every second annual Assembly
-meeting. If a position of the Board becomes vacant or one more Board
+meeting, for a duration of two years. If a position of the Board becomes vacant or one more Board
 member shall be introduced, this Board member can be elected at the next
 Assembly meeting for the duration until the next scheduled MA Board
 election.
@@ -402,8 +389,7 @@ conflict.
 
 ## § 20 Register of members ##
 
-Members are specified on MA's homepage (currently
-http://www.modelica.org).
+The MA maintains a member list. All organizational members are published on the MA website, individual members optionally.
 
 # Modelica Association Projects #
 
@@ -435,27 +421,19 @@ The proposal of a project for registration as MAP must contain
   - Initial members of the project (individual and organizational). A
     MAP must have a reasonable number of members.
 
-  - Name, organization and position of the project leader.
-
-The project leader must be a member of the MA before the voting about
-the project's registration. If this is not already the case, the
-procedure of § 3 can be applied. If the project leader is no longer a
-member of MA, another MA member has to be elected as project leader
-according to the project rules. Until a new project leader has been
-elected, the MA Chairperson is the leader of such a project. After the
-MAP registration, the project leader can apply for approval as MA Board
-member by the MA.
-
-For clarification: other projects members need not be MA members.
+  - Name, organization and position of the project leader (and deputy) fulfilling 
+the requirements of §23.
 
 ## § 23 Terms and conditions for Modelica Association Projects ##
+
+Every MA Project Leader and Deputy Project Leader needs to fulfil the requirements for 
+an MA board member.
 
 The MAP leader has to prepare a report about the project operation of
 the previous year for the MA Annual Assembly meeting.
 
 MA projects can change their rules (which have been previously accepted
-by MA) only, if accepted by an MA Assembly meeting with a qualified
-majority (see § 14).
+by MA) only, if accepted by the MA Board.
 
 MAPs are encouraged to apply for approval of their results by MA as MA
 standard according to § 2.
@@ -464,22 +442,11 @@ MAPs must make the results of the project work publicly available on the
 web under an open source license (usually an open source license approved
 by the Open Source Initiative, see http://www.opensource.org/licenses).
 
-
-MAPs are encouraged to use the MA infrastructure such as MA web, svn,
-trac and newsletter. However, an MA project can also build its own
-infrastructure, especially an own web page.
-
 Beyond that, MAPs are responsible for their financial and human
 resources. MA has the right to support certain works of a MAP with MA
 funding with a qualified majority of the Assembly (see § 14).
 
-If a MAP files a trademark, the usual procedure is that the trademark
-holder is the Modelica Association and the MAP members reimburse the
-trademark costs to the MA. If the MAP decides to leave the Modelica
-Association, MA agrees to carry the trademark to the new organization of
-the MAP, provided the MAP members carry the cost of this transaction.
-
-A MAP member can become a MA member according to § 3.
+A MAP member can become a MA member according to § 3, but does not have to.
 
 MA has the right to revoke the registration of a MAP if (a) MA bylaws
 are violated, (b) laws or regulations that MA has to follow are
