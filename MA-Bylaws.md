@@ -106,7 +106,7 @@ MA's Board consists of a minimum of four and maximum of nineteen members (and te
     specific duties and
   - those leaders (and their deputies as alternate board members) of registered 
     Modelica Association Projects (see § 21 - § 23) that are approved by the MA 
-    assembly as board members.   
+    assembly as board members (respectively as alternate members).   
 
 The number of additional Board members and their duties for the upcoming
 election period are defined at the latest in the Assembly meeting before
