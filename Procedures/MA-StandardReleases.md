@@ -1,6 +1,7 @@
 # Procedure for major and minor releases of MA standards
 These releases of Modelica Association are first voted on in the MAP. The release is then voted on by the MA members according to the bylaws.
 In order avoid delays or rejections of a release, it is recommended that MA members are already asked for inspection and feedback, during the MAP-internal finalization of a version.
+Additionally the announcement of the MA vote can be done during the MAP-internal vote to avoid delays.
 
 # Procedure for bugfix / maintenance release of MA standards
 The following procedure is recommended for the bugfix/maintenance releases of MA standards with no new features (typically "third digit" releases following semantic versioning):
