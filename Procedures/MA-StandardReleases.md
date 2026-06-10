@@ -5,7 +5,7 @@ In order avoid delays or rejections of a release, it is recommended that MA memb
 Additionally the announcement of the MA vote can be done during the MAP-internal vote to avoid delays.
 
 For MA approval vote, the MAP leader asks MA Backoffice to initiate voting.
-MA Backoffice then announces the voting and organizes electronics voting.
+MA Backoffice then announces the voting and organizes electronic voting.
 
 # Procedure for bugfix / maintenance release of MA standards
 The following procedure is recommended for the bugfix/maintenance releases of MA standards with no new features (typically "third digit" releases following semantic versioning):
